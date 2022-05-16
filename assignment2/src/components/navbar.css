@@ -1,0 +1,44 @@
+#navbar{
+    width: 90%;
+    height: 75px;
+    /* border: 1px solid red; */
+    background-color: black;
+    color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+#firstbox{
+    width: 20%;
+    height: 100%;
+    /* border: 1px solid blue; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(209, 205, 205);
+    padding-top: 10px;
+    font-size: 18px;
+    margin-top: 15px;
+}
+#secondbox{
+    width: 40%;
+    height: 100%;
+    /* border: 1px solid rgb(0, 255, 42); */
+    display: flex;
+    padding-top: 10px;
+    font-size: 18px;
+}
+#thirdbox{
+    width: 15%;
+    height: 50%;
+    /* border: 1px solid blue; */
+    border-radius: 50px;
+    margin-top: 17px;
+    margin-right: 50px;
+    background-color: blue;
+    color: aliceblue;
+}
+.center{
+    width: 33%;
+    height: 100%;
+    /* border: 1px solid red; */
+    margin-top: 15px;
+    color: aliceblue;
+}
